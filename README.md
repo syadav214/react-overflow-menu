@@ -63,6 +63,32 @@ export default App;
 npm install react-bootstrap-overflow-menu
 ```
 
+## Props
+
+##### `className`
+
+Sets the class name (bootstrap class) of the overflow menu. Defaults to `text-right`. Valid values are:
+
+`text-left | text-center | text-right` :: Alignment of the overflow menu
+
+---
+
+##### `menuItems`
+
+An array of object with properties like 'id' and 'text'.
+```js
+const menuItems = [
+  { id: 'edit', text: 'Edit' },
+  { id: 'delete', text: 'Delete' }
+];
+```
+
+---
+
+##### `menuItemClick`
+
+A callback function to get event object of a button of a menu item.
+
 ## License
 
 MIT
