@@ -1,6 +1,6 @@
 {
-  "name": "react-bootstrap-overflow-menu",
-  "version": "1.0.0",
+  "name": "react-overflow-menu",
+  "version": "1.0.1",
   "description": "React component for overflow menu styled in bootstrap",
   "main": "build/index.js",
   "peerDependencies": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/syadav214/react-bootstrap-overflow-menu.git"
+    "url": "git+https://github.com/syadav214/react-overflow-menu.git"
   },
   "keywords": [
     "overflow",
@@ -26,9 +26,9 @@
   "author": "Santoshkumar Yadav",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/syadav214/react-bootstrap-overflow-menu/issues"
+    "url": "https://github.com/syadav214/react-overflow-menu/issues"
   },
-  "homepage": "https://github.com/syadav214/react-bootstrap-overflow-menu#readme",
+  "homepage": "https://github.com/syadav214/react-overflow-menu#readme",
   "dependencies": {
     "react": "^16.4.0",
     "react-dom": "^16.8.6"
