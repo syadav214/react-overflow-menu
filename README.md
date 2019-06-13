@@ -1,4 +1,4 @@
-# react-bootstrap-overflow-menu
+# react-overflow-menu
 
 React component for overflow menu styled in bootstrap
 
