@@ -4,6 +4,8 @@ React component for overflow menu styled in bootstrap
 
 ## Example
 
+![alt text](https://user-images.githubusercontent.com/24729891/59412659-8b8ae280-8ddb-11e9-8bf2-38cdf0d7d9bd.png)
+
 ```html
 <!-- Put bootstrap cdn link (like below) in index.html of your React App -->
 <!-- Latest compiled and minified CSS -->
