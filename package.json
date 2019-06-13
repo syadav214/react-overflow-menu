@@ -1,6 +1,6 @@
 {
   "name": "react-overflow-menu",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React component for overflow menu styled in bootstrap",
   "main": "build/index.js",
   "peerDependencies": {
