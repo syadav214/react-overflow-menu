@@ -4,7 +4,7 @@ React component for overflow menu styled in bootstrap
 
 ## Example
 
-![alt text](https://user-images.githubusercontent.com/24729891/59412659-8b8ae280-8ddb-11e9-8bf2-38cdf0d7d9bd.png)
+![alt text](overflow-menu.png)
 
 ```html
 <!-- Put bootstrap cdn link (like below) in index.html of your React App -->
@@ -19,7 +19,7 @@ React component for overflow menu styled in bootstrap
 
 ```jsx
 import React, { Component } from 'react';
-import OverflowMenu from 'react-bootstrap-overflow-menu';
+import OverflowMenu from 'react-overflow-menu';
 
 // Mention your own menu items (only 'id' and 'text' are supported)
 const menuItems = [
@@ -62,7 +62,7 @@ export default App;
 ## Install
 
 ```cli
-npm install react-bootstrap-overflow-menu
+npm install react-overflow-menu
 ```
 
 ## Props
